@@ -1,4 +1,4 @@
-// render props - function as child component
+// render props - aka function as child component
 
 <>
   <Route exact path="/">
